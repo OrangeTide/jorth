@@ -1,0 +1,7 @@
+*.asm
+*.obj
+*.dll
+*.lib
+
+*~
+.*.swp
